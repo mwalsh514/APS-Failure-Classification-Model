@@ -22,8 +22,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 2. Source Information
    -- Creator: Scania CV AB
-               Vagnmakarvägen 1 
-               151 32 Södertälje 
+               VagnmakarvÃ¤gen 1 
+               151 32 SÃ¶dertÃ¤lje 
                Stockholm
                Sweden 
    -- Donor:   Tony Lindgren (tony@dsv.su.se) and Jonas Biteus (jonas.biteus@scania.com)
