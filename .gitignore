@@ -1,7 +1,7 @@
 # This file is used to ignore files and directories that should not be tracked by Git.
 
 # data/
-data/*              # Ignore all files in the data directory
+*data/             # Ignore all files in the data directory
 !data/.gitkeep      # but keep the .gitkeep file
 
 # Byte-compiled / optimized / DLL files
