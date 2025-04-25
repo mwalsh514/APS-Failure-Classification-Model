@@ -8,6 +8,7 @@
 ## **Dataset**
 - ### Source
     - This project uses data from APS Failure at Scania Trucks [Dataset]. (2016). UCI Machine Learning Repository. https://doi.org/10.24432/C51S51.
+    - This dataset is provided under the GPL License and is sourced from Scania CV AB.
 - ### Summary 
     - Real data is divided into training and testing datasets. 
     - The true feature names of this dataset have been replaced by a combination of identifier and bin id (identifier_bin) for proprietary reasons.
@@ -27,7 +28,7 @@
     - Create virtual-environment. (optional, but recommended)
     - Load required libraries from 'requirements.txt' with powershell prompt: pip install -r requirements.txt
 - ### Data
-    - Please download 'aps_failure_training_set.csv' and 'aps_failure_test_set.csv' and place in the 'data' folder.
+    - Necessary training and testing data have been committed to the repository.
 
 ## **File Structure**
 
