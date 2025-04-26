@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 # Data folder
-data/cleaned.csv
+data/training_cleaned.csv
+data/test_cleaned.csv
