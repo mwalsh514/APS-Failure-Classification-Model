@@ -161,6 +161,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Data folder
+# data folder
 data/training_cleaned.csv
 data/test_cleaned.csv
+
+# models_saved folder
+models_saved/random_forest_model.pkl 
