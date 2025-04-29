@@ -33,7 +33,6 @@
 
 ```markdown
 ## **Initial Clone File Structure**
-```plaintext
 .
 └── APS-Failure-Classification-Model/
     ├── data/
