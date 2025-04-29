@@ -3,6 +3,7 @@
     - The objective of this project is to create various classification models capable of accurately predicting the failure of a Air Pressure System (APS) specific component in Scania trucks. 
 - ### Relevance 
     - A model capable of accurate prediction of APS-specific failure could be utilized in a predictive maintenance scheme.
+    - Analysis of the most important features of classification may allow for strategic refinement of specific components in future truck models.
 
 ## **Dataset**
 - ### Source
@@ -14,9 +15,9 @@
     - The true feature names of this dataset have been replaced by a combination of identifier and bin id (identifier_bin) for proprietary reasons.
     
 ## **Classification Models**
-- ### Model 1
+- ### Logistic Regression
     - 
-- ### Model 2
+- ### Random Forest Classifier
     - 
 
 ## **Results & Insights**
@@ -28,7 +29,7 @@
 - ### Data
     - Necessary training and testing data have been committed to the repository.
     - Data will be cleaned and stored locally.
-        - `Important Note:` Some data cleaning processes are computationally intense and may require extended amounts of time.
+        - `Important Note:` Some data-cleaning, model-training, and result-interpretation processes are computationally intense and may require extended amounts of time.
 
 ## **File Structure**
 
