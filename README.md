@@ -31,7 +31,29 @@
     - Data will be cleaned and stored locally.
         - `Important Note:` Some data-cleaning, model-training, and result-interpretation processes are computationally intense and may require extended amounts of time.
 
-## **File Structure**
+## **Initial Clone File Structure**
+.
+└── APS-Failure-Classification-Model/
+    ├── data/
+    │   ├── aps_failure_description.txt
+    │   ├── aps_failure_training_set.txt
+    │   └── aps_failure_test_set.txt
+    ├── data_cleaning/
+    │   ├── test_data_imputation.ipynb
+    │   └── training_data_imputation.ipynb
+    ├── dev/
+    │   └── scania_failure_data.ipynb
+    ├── models/
+    │   ├── logistic_regression.ipynb
+    │   └── random_forest_model.ipynb
+    ├── models_saved/
+    │   └── .gitkeep
+    ├── notebooks
+    ├── .gitattributes
+    ├── .gitignore
+    ├── LICENSE
+    ├── README.md
+    └── requirements.txt
 
 ## **Licensing**
 - ### Data
