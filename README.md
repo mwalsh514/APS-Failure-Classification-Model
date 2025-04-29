@@ -32,7 +32,7 @@
         - `Important Note:` Some data-cleaning, model-training, and result-interpretation processes are computationally intense and may require extended amounts of time.
 
 ## **Initial Clone File Structure**
-.
+```.
 └── APS-Failure-Classification-Model/
     ├── data/
     │   ├── aps_failure_description.txt
@@ -53,7 +53,7 @@
     ├── .gitignore
     ├── LICENSE
     ├── README.md
-    └── requirements.txt
+    └── requirements.txt```
 
 ## **Licensing**
 - ### Data
