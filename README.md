@@ -31,8 +31,9 @@
     - Data will be cleaned and stored locally.
         - `Important Note:` Some data-cleaning, model-training, and result-interpretation processes are computationally intense and may require extended amounts of time.
 
-```markdown
+
 ## **Initial Clone File Structure**
+```plaintext
 .
 └── APS-Failure-Classification-Model/
     ├── data/
@@ -55,6 +56,7 @@
     ├── LICENSE
     ├── README.md
     └── requirements.txt
+```
 
 ## **Licensing**
 - ### Data
