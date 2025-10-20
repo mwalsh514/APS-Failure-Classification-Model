@@ -16,9 +16,9 @@
     
 ## **Classification Models**
 - ### Logistic Regression
-    - 
+    - Accuracy: 0.9908888888888889
 - ### Random Forest Classifier
-    - 
+    - Accuracy: 0.9919375
 
 ## **Results & Insights**
 
